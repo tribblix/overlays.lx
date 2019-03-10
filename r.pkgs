@@ -1,0 +1,8 @@
+TRIBr
+TRIBgfortran4runtime
+TRIBgnu-libiconv
+TRIBncurses
+TRIBreadline
+TRIBv-gfortran-483
+TRIBv-gcc-483
+TRIBsys-header

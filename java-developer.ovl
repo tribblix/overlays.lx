@@ -1,0 +1,3 @@
+VERSION=8
+NAME=Java oriented developer tools
+REQUIRES=java

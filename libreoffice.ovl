@@ -1,0 +1,5 @@
+VERSION=3
+NAME=LibreOffice Office Suite
+REQUIRES=gstreamer1
+REQUIRES=retro-desktop
+REQUIRES=office-utilities

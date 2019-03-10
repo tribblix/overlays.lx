@@ -1,0 +1,9 @@
+VERSION=43
+NAME=Retro Desktop environments and utilities
+REQUIRES=x11
+REQUIRES=cli-tools
+REQUIRES=base-extras
+REQUIRES=tls
+REQUIRES=legacy-audio
+REQUIRES=tcl-tk
+SERVICE=svc:/system/slim:default

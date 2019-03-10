@@ -1,0 +1,3 @@
+VERSION=11
+NAME=Common CLI tools
+REQUIRES=base-extras

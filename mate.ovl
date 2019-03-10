@@ -1,0 +1,4 @@
+VERSION=9
+NAME=MATE desktop applications
+REQUIRES=retro-desktop
+REQUIRES=gstreamer1

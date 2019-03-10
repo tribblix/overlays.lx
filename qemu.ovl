@@ -1,0 +1,4 @@
+VERSION=2
+NAME=QEMU machine emulator
+REQUIRES=x11
+REQUIRES=tls

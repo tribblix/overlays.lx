@@ -1,0 +1,5 @@
+VERSION=25
+NAME=Additional Desktop Environments and Utilities
+REQUIRES=retro-desktop
+REQUIRES=i3
+REQUIRES=pidgin
