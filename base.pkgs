@@ -30,5 +30,7 @@ TRIBperl-522-module-sun-solaris
 TRIBgnupg
 TRIBsys-ficl
 TRIBsys-lib-iconv-utf-8
+TRIBfile-magic
+TRIBeditor-nano
 TRIBsys-zones-brand-lx
 TRIBlxadm
