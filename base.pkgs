@@ -32,5 +32,6 @@ TRIBsys-ficl
 TRIBsys-lib-iconv-utf-8
 TRIBfile-magic
 TRIBeditor-nano
+TRIBdrv-inotify
 TRIBsys-zones-brand-lx
 TRIBlxadm
