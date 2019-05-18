@@ -1,7 +1,8 @@
+TRIBsocat
 TRIBcompress-xz
 TRIBlibffi
 TRIBdev-acpi-compiler
 TRIBsys-bhyve
 TRIBsys-bhyve-firmware
-TRIBv-python-36
+TRIBv-python-37
 TRIBbhyve-brand
