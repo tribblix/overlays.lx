@@ -1,7 +1,7 @@
 TRIBsocat
 TRIBcompress-xz
 TRIBlibffi
-TRIBdev-acpi-compiler
+TRIBdev-acpi
 TRIBsys-lib-bhyve
 TRIBsys-bhyve
 TRIBsys-bhyve-firmware
