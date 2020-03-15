@@ -1,0 +1,3 @@
+VERSION=1
+NAME=Driver and tools for Hyper-V
+REQUIRES=base
