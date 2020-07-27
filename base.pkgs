@@ -37,3 +37,5 @@ TRIBdrv-inotify
 TRIBsys-zones-brand-lx
 TRIBlxadm
 TRIBsys-net-overlay
+TRIBsys-ksensor
+TRIBdrv-cpu-mc
