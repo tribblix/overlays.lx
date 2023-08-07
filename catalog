@@ -36,7 +36,7 @@ desktop|1||
 develop-extras|47||
 develop|45||
 dlna|4||
-dmarc|10||
+dmarc|11||
 duplicity|5||
 e19|8||
 ec2-api-tools|2||
@@ -57,6 +57,7 @@ gstreamer1|8||
 gtk2|1||
 gtk3|6||
 httpie|4||
+httpx|1||
 hyperv|1||
 i3|5||
 illumos-build|34||
@@ -100,7 +101,7 @@ office-utilities|3||
 openexr|2||
 openjdk-build|7||
 openlook|1||
-patroni|17||
+patroni|18||
 pidgin|6||
 pkgsrc|3||
 plan9|1||
