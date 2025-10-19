@@ -13,7 +13,7 @@ autotools|5||
 awesome|3||
 awscli|11||
 azure-baseline|1||
-b2|4||
+b2|5||
 backup-utilities|4||
 base-cloud|1||
 base-extras|37||
@@ -80,7 +80,7 @@ java21|1||
 java25|1||
 java8|48||
 jruby|4||
-jupyter|10||
+jupyter|11||
 kde-games|1||
 kf6|1||
 kitchen-sink|16||
