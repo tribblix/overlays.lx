@@ -13,7 +13,7 @@ autotools|5||
 awesome|3||
 awscli|11||
 azure-baseline|1||
-b2|5||
+b2|6||
 backup-utilities|5||
 base-cloud|1||
 base-extras|37||
@@ -28,7 +28,7 @@ cde|2||
 clang|3||
 cli-tools-extras|10||
 cli-tools|24||
-cloud-clients|14||
+cloud-clients|15||
 cloudsec|24||
 compression-utilities|2||
 core-tribblix|3||
