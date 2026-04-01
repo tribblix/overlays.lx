@@ -138,7 +138,7 @@ scikit-image|10||
 scikit-learn|6||
 scipy|7||
 security-extras|2||
-security|43||
+security|44||
 server-manage|8||
 server|2||
 sphinx|13||
@@ -156,7 +156,6 @@ uxplay|4||
 vlc|9||
 webdev|24||
 website-generators|1||
-wfuzz|7||
 wifi|3||
 wine|6||
 x11-extras|17||
